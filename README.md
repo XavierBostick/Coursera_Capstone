@@ -1,2 +1,2 @@
-# Data-Science-Capstone-Week-1
+# Coursera_Capstone
 IBM Capstone Week 1
